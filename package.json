@@ -1,0 +1,11 @@
+{
+  "name": "hello_node",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "hello.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "",
+  "license": "ISC"
+}
